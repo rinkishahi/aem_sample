@@ -17,7 +17,7 @@
                     sling:resourceType="simple/components/content/text"/>
                 <title-h2
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Title component set to H1"
+                    jcr:title="Title component set to H2"
                     sling:resourceType="simple/components/core/v1/title"/>
                 <title-h2
                     jcr:primaryType="nt:unstructured"
